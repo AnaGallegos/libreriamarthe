@@ -34,7 +34,7 @@
                 <p>Un viaje inolvidable lleno de emoción y misterio.</p>
             </div>
             <div class="producto">
-                <img src="https://via.placeholder.com/150" alt="Libro 2">
+                <img src="https://github.com/AnaGallegos/libreriamarthe/blob/main/alfinallosdos.jfif" alt="Libro 2">
                 <h3>Al final mueren los dos</h3>
                 <p>Un recorrido por los grandes momentos de la historia mundial.</p>
             </div>
