@@ -29,7 +29,7 @@
         <section class="productos">
             <h2>Libros Destacados</h2>
             <div class="producto">
-                <img src="https://via.placeholder.com/150" alt="Libro 1">
+                <img src="https://github.com/AnaGallegos/libreriamarthe/blob/main/alfinal.jfif" alt="Libro 1">
                 <h3>Al final muere el primero</h3>
                 <p>Un viaje inolvidable lleno de emoción y misterio.</p>
             </div>
